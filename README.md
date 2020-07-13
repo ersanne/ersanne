@@ -1,16 +1,12 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Erik Sanne</h3>
+<p align="center">
+  <a href="https://eriksanne.com">Website</a> •
+  <a href="https://twitter.com/ErikKonradSanne">Twitter</a> •
+  <a href="https://www.linkedin.com/in/eriksanne/">LinkedIn</a>
+</p>
 
-<!--
-**ersanne/ersanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I'm a final year Software Engineering student at Edinburgh Napier University.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 My Pronouns: He/Him
+- 💬 Ask me about: Vue, Vuetify, Java
