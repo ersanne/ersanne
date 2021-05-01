@@ -6,7 +6,7 @@
 </p>
 
 ---
-I'm a final year Software Engineering student at Edinburgh Napier University.  
+I'm a junior Software Engineer currently working in Germany. Previously Software Engineering @ Edinburgh Napier University.
 
 - 😄 My Pronouns: He/Him
 - 💬 Ask me about: Vue, Vuetify, Java
