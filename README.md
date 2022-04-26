@@ -6,7 +6,7 @@
 </p>
 
 ---
-I'm a junior Software Engineer currently working in Germany. Previously Software Engineering @ Edinburgh Napier University.
+I'm a Software Engineer currently working in Germany. Previously Software Engineering @ Edinburgh Napier University.
 
 - 😄 My Pronouns: He/Him
-- 💬 Ask me about: Vue, Vuetify, Java
+- 💬 Ask me about: Java, Cloud, DevOps, Vue, Vuetify
