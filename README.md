@@ -9,4 +9,4 @@
 I'm a Software Engineer currently working in Germany. Previously Software Engineering @ Edinburgh Napier University.
 
 - 😄 My Pronouns: He/Him
-- 💬 Ask me about: Java, Cloud, DevOps, Vue, Vuetify
+- 💬 Ask me about: Python, Java, Cloud, DevOps, Data Pipelines
