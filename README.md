@@ -10,3 +10,6 @@ I'm a Software Engineer currently working in Germany. Previously Software Engine
 
 - 😄 My Pronouns: He/Him
 - 💬 Ask me about: Python, Java, Cloud, DevOps, Data Pipelines
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
