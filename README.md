@@ -14,12 +14,12 @@ I'm a Software Engineer currently working in Germany. Previously Software Engine
 <!--START_SECTION:waka-->
 
 ```text
-Go         4 hrs 44 mins   ███████████░░░░░░░░░░░░░░   44.35 %
-Python     3 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   30.19 %
-JSON       48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-SQL        36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-YAML       25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Env File   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Go         6 hrs 52 mins   █████████████░░░░░░░░░░░░   52.09 %
+Python     3 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
+JSON       41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+SQL        36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+YAML       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Env File   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
