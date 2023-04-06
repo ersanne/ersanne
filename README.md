@@ -14,12 +14,12 @@ I'm a Software Engineer currently working in Germany. Previously Software Engine
 <!--START_SECTION:waka-->
 
 ```text
-Python             2 hrs 56 mins   ████████░░░░░░░░░░░░░░░░░   31.92 %
-Go                 2 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   29.29 %
-Protocol Buffer    1 hr 24 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
-YAML               52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-protobuf           42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-Makefile           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Go                 4 hrs 12 mins   ██████████░░░░░░░░░░░░░░░   40.09 %
+Protocol Buffer    2 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.50 %
+Python             1 hr 48 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+protobuf           58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+YAML               35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+Markdown           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
