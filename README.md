@@ -9,8 +9,9 @@
 I'm a Software Engineer currently working in Germany. Previously Software Engineering @ Edinburgh Napier University.
 
 - 😄 My Pronouns: He/Him
-- 💬 Ask me about: Python, Java, Cloud, DevOps, Data Pipelines
+- 💬 Ask me about: Python, Golang, Java, Cloud, DevOps, Data Pipelines
 
+<h4>Weekly development stats</h4>
 <!--START_SECTION:waka-->
 
 ```text
