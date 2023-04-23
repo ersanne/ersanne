@@ -15,12 +15,12 @@ I'm a Software Engineer currently working in Germany. Previously Software Engine
 <!--START_SECTION:waka-->
 
 ```text
-Go                                ██████████▓░░░░░░░░░░░░░░   42.62 %
-protobuf                          ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
-Protocol Buffer                   ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Markdown                          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-YAML                              █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Makefile                          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Go                                 ████████▓░░░░░░░░░░░░░░░░   34.82 %
+protobuf                           █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+Python                             ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
+Protocol Buffer                    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+Markdown                           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+GitIgnore file                     █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
 
 <!--END_SECTION:waka-->
