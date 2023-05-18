@@ -15,11 +15,11 @@ I'm a Software Engineer currently working in Germany. Previously Software Engine
 <!--START_SECTION:waka-->
 
 ```text
-Go                                ██████████████████░░░░░░░   71.68 %
-protobuf                          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-Protocol Buffer                   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Text                              █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-Cheetah                           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Go                                ██████████████████████▒░░   89.45 %
+Text                              █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+Cheetah                           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Makefile                          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Python                            ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
