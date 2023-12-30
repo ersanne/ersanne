@@ -15,10 +15,8 @@ I'm a Software Engineer currently working in Germany. Previously Software Engine
 <!--START_SECTION:waka-->
 
 ```txt
-Python                   ████████████████████████░   96.47 %
-YAML                     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-SQL                      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Text                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python                   ████████████████████░░░░░   79.39 %
+YAML                     █████░░░░░░░░░░░░░░░░░░░░   20.61 %
 ```
 
 <!--END_SECTION:waka-->
