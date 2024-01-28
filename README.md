@@ -15,11 +15,11 @@ I'm a Software Engineer currently working in Germany. Previously Software Engine
 <!--START_SECTION:waka-->
 
 ```txt
-Python                             ███████████████▓░░░░░░░░░   62.89 %
-Markdown                           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-YAML                               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-Text                               ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-requirements.txt                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Python                             ████████████░░░░░░░░░░░░░   48.03 %
+Markdown                           ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+Text                               ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+JSON                               ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+YAML                               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
 ```
 
 <!--END_SECTION:waka-->
