@@ -15,7 +15,11 @@ I'm a Software Engineer currently working in Germany. Previously Software Engine
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go                         ███████████████▓░░░░░░░░░   62.41 %
+Text                       █████░░░░░░░░░░░░░░░░░░░░   19.36 %
+go.mod                     ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Python                     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+YAML                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
