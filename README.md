@@ -15,11 +15,11 @@ I'm a Software Engineer currently working in Germany. Previously Software Engine
 <!--START_SECTION:waka-->
 
 ```txt
-Go                               █████████████████████▒░░░   85.91 %
-Markdown                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-YAML                             █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Dockerfile                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Bash                             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Go                               ████████████████████▓░░░░   82.73 %
+Markdown                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+YAML                             █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+JSON                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Dockerfile                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
