@@ -67,7 +67,6 @@ func main() {
 - Building for on-prem & appliance environments
 - DevOps & release engineering
 - Data pipelines
-- Java, when it's the right tool
 
 </td>
 </tr>
