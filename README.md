@@ -90,9 +90,6 @@ func main() {
 
 ### 📊 This week in code
 
-<details>
-<summary>Click to expand WakaTime stats</summary>
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -101,7 +98,9 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-</details>
+<sub>Updated daily via <a href="https://wakatime.com">WakaTime</a></sub>
+
+---
 
 <div align="center">
 

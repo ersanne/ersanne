@@ -1,16 +1,31 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: # for manual workflow trigger
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
+    - cron: "17 3 * * *" # daily, off the top of the hour to avoid scheduler congestion
+
+permissions:
+  contents: write
+
+concurrency:
+  group: waka-readme
+  cancel-in-progress: true
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@8539bedb8277066fc9fe1b47d1f9b108eb866494 # v0.3.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TIME: false
+          TIME_RANGE: last_7_days
+          SHOW_TITLE: true
+          SHOW_TOTAL: true
+          SHOW_TIME: true
+          LANG_COUNT: 6
+          STOP_AT_OTHER: true
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          COMMIT_MESSAGE: "chore(readme): update WakaTime stats"
