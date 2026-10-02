@@ -40,7 +40,7 @@ func main() {
 		Pronouns:   "he/him",
 		Languages:  []string{"Go"},
 		Industries: []string{"fintech", "banking", "cybersecurity"},
-		Builds:     "on-prem appliances that just work",
+		Builds:     "on-prem appliances",
 		Education:  "Software Engineering @ Edinburgh Napier University",
 	}
 }
@@ -55,7 +55,7 @@ func main() {
 <td width="50%" valign="top">
 
 **🏗️ Right now**
-- Leading backend development for a team that builds on-prem appliances
+- Leading backend development for on-prem appliances
 - Designing Go services and APIs that run reliably on hardware we don't get to SSH into whenever we like
 - Mentoring, reviewing, and keeping the architecture honest
 
