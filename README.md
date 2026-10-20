@@ -92,13 +92,13 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2026 - To: 18 October 2026
+From: 12 October 2026 - To: 19 October 2026
 
-Total Time: 28 hrs 59 mins
+Total Time: 26 hrs 2 mins
 
-Markdown            11 hrs 6 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.01 %
-Go                  10 hrs 18 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.39 %
-Other               1 hr 52 mins    ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.08 %
+Go                  10 hrs 14 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.23 %
+Markdown            8 hrs 6 mins    ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.44 %
+Other               1 hr 28 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.38 %
 ```
 
 <!--END_SECTION:waka-->
