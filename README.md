@@ -89,19 +89,9 @@ func main() {
 
 ### 📊 This week in code
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 October 2026 - To: 31 October 2026
-
-Total Time: 17 hrs 20 mins
-
-Go               5 hrs 46 mins   ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.80 %
-Markdown         5 hrs 27 mins   ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.29 %
-Other            3 hrs 25 mins   ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.48 %
-```
-
-<!--END_SECTION:waka-->
+<a href="https://wakatime.com/@547fc8ef-de13-46b4-94a5-2ad55266453d">
+  <img src="./profile/wakatime.svg" alt="WakaTime stats for the last 7 days" width="495" />
+</a>
 
 <sub>Updated daily via <a href="https://wakatime.com">WakaTime</a></sub>
 
